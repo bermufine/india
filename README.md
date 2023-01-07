@@ -3,12 +3,16 @@
 
 {"descriptionCam":"Zee TV est une chaîne de télévision basée en Inde.","sourceCam":["http://w4.12all.tv:4000/play/zee/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTAzMDJf/zeetv.png","titleCam":"ZEE TV TV"},
 
-{"descriptionCam":"SONY TV est une chaîne de télévision basée en Inde.","sourceCam":["http://50.7.237.4:8080/SONY/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTAzMTNf/sony.png","titleCam":"SONY TV"},
+{"descriptionCam":"SONY TV est une chaîne de télévision basée en Inde.","sourceCam":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/3a7e57f4-f991-4c89-8045-20870c95847c/2.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTAzMTNf/sony.png","titleCam":"SONY TV"},
 
-{"descriptionCam":"Channel 24 TV est une chaîne de télévision d'information basée en Inde.","sourceCam":["http://50.7.237.4:8080/CHANNEL24/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleCam":"CHANNEL 24"},
+{"descriptionCam":"Channel 24 TV est une chaîne de télévision d'information basée en Inde.","sourceCam":["https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleCam":"CHANNEL 24"},
 
 {"descriptionCam":"Zee Cinema TV est une chaîne de télévision des films basée Indiens.","sourceCam":["http://92.222.172.40:8080/ZeeCinema/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1MTc5NjJf/zeecine.jpg","titleCam":"ZEE CINEMA"},
 
-{"descriptionCam":"B4U MOVIES TV est une chaîne de télévision de divertissements basée en Inde.","sourceCam":["http://92.222.172.40:8080/B4U_Movies/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1MTc4Nzlf/b4u.jpg","titleCam":"B4U MOVIES"},
+{"descriptionCam":"B4U MOVIES TV est une chaîne de télévision de divertissements basée en Inde.","sourceCam":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/736da703-a8f8-4702-a8d4-19d8986678f7/1.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1MTc4Nzlf/b4u.jpg","titleCam":"B4U MOVIES"},
 
-{"descriptionCam":"Zee Action TV est une chaîne de télévision d'Inde.","sourceCam":["http://w4.12all.tv:4000/play/zeeaction/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODIwOTc0MTRf/zeeAction.png","titleCam":"ZEE ACTION"},{"descriptionCam":"NTV est une chaîne de télévision d'information basée en Inde.","sourceCam":["http://92.222.172.40:8080/NTV/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1MTc2NDJf/ntvinde.jpg","titleCam":"NTV"},{"descriptionCam":"VTV est une chaîne de télévision d'information basée en Inde.","sourceCam":["http://92.222.172.40:8080/VTV/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1MTc1NzNf/vtvinde.jpg","titleCam":"VTV"}]}]}
+{"descriptionCam":"Zee Action TV est une chaîne de télévision d'Inde.","sourceCam":["http://w4.12all.tv:4000/play/zeeaction/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODIwOTc0MTRf/zeeAction.png","titleCam":"ZEE ACTION"},
+
+{"descriptionCam":"NTV est une chaîne de télévision d'information basée en Inde.","sourceCam":["https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1MTc2NDJf/ntvinde.jpg","titleCam":"NTV"},
+
+{"descriptionCam":"VTV est une chaîne de télévision d'information basée en Inde.","sourceCam":["http://92.222.172.40:8080/VTV/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1MTc1NzNf/vtvinde.jpg","titleCam":"VTV"}]}]}
