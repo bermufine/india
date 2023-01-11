@@ -1,7 +1,7 @@
 # india
 {"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Zee Bioskop TV est une chaîne de télévision basée en Inde.","sourceCam":["http://210.210.155.35/qwr9ew/s/s32/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODYyNDM4MjZf/zeebioskop.webp","titleCam":"ZEE BIOSK TV"},
 
-{"descriptionCam":"Zee TV est une chaîne de télévision basée en Inde.","sourceCam":["http://w4.12all.tv:4000/play/zee/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTAzMDJf/zeetv.png","titleCam":"ZEE TV TV"},
+{"descriptionCam":"News World India is India's Fastest Growing News channel known for its quality programs, authentic news, and reliable breaking news. News World India brings you 24/7 Live Streaming, Headlines, Bulletins, Talk Shows, Infotainment and much more. Watch minute by minute updates of current affairs and happenings from India and all around the world! Watch our current affairs and infotainment shows: Ek Dum Seedhi Baat With Harish Aswal Bharat@9 With Kavendra Chauhan Chaar ka Chakravyuh With Parul Tyagi Saat ki Baat With Kajol Narayan","sourceCam":["https://sbnews.livebox.co.in/newsworldindiahls/news.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODY1NDAxOThf/newsworldindia.jpg","titleCam":"NEWS WORLD INDIA TV"},
 
 {"descriptionCam":"SONY TV est une chaîne de télévision basée en Inde.","sourceCam":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/3a7e57f4-f991-4c89-8045-20870c95847c/2.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTAzMTNf/sony.png","titleCam":"SONY TV"},
 
