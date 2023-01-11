@@ -7,6 +7,13 @@
 
 {"descriptionCam":"Channel 24 TV est une chaîne de télévision d'information basée en Inde.","sourceCam":["https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleCam":"CHANNEL 24"},
 
+
+
+{"descriptionCam":"Hare Krsna TV is a Free to Air Channel Devotional Channel which broadcasts content from International Society for Krishna Consciousness (ISKCON) on Television and OTT Platforms.","sourceCam":["https://zenga.hk.harekrsnatv.com/harekrsna/tv/chunks.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODY1NDAxOTBf/harekrsna.jpg","titleCam":"HARE KRSNA TV"},
+
+
+{"descriptionCam":"Watch Online Sristi 35 MM Live TV Streaming from India with high quality at zengatv.","sourceCam":["https://sristi1.livebox.co.in/35mmhls/35mm.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODY1NDAxODJf/sristi.jpg","titleCam":"SRIST 35 M TV"},
+
 {"descriptionCam":"Zee Cinema TV est une chaîne de télévision des films basée Indiens.","sourceCam":["http://92.222.172.40:8080/ZeeCinema/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1MTc5NjJf/zeecine.jpg","titleCam":"ZEE CINEMA"},
 
 {"descriptionCam":"B4U MOVIES TV est une chaîne de télévision de divertissements basée en Inde.","sourceCam":["https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/736da703-a8f8-4702-a8d4-19d8986678f7/1.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODM1MTc4Nzlf/b4u.jpg","titleCam":"B4U MOVIES"},
